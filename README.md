@@ -1,5 +1,5 @@
 # nodeCrud
-Crud api using koa js and postgres
+Crud api using koa js and postgres with authentication in update and delete api
 
 #output
 post
